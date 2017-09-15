@@ -1,0 +1,3 @@
+<h3>Tutoring</h3>
+<p>Unlike scripted programs and homework help centers, our specialists systematically address underlying deficits through a multi-sensory, targeted approach to literacy instruction. Instead of subscribing to any one program, we build instruction from the ground up to reflect the unique needs of each child.</p>
+<p>Our literacy tutoring services are offered to students of all ages. We specialize in helping struggling readers, particularly those with dyslexia, fill the gaps and become proficient readers.</p>
