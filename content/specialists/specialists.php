@@ -22,6 +22,9 @@
 		'Evan O.',
 		'Meghan M.',
 		'Louise D',
+		'Kayleigh S',
+		'Michael M',
+		'Julie B',
 		);
 	$specialists_type = array(
 		'Math',
@@ -31,6 +34,9 @@
 		'Literacy and Math',
 		'Writing',
 		'Writing',
+		'Literacy',
+		'Literacy',
+		'Literacy',
 		'Literacy',
 		'Literacy',
 		'Literacy',
@@ -68,6 +74,9 @@
 		'Louisiana State University',
 		'SUNY College of Old Westbury',
 		'Columbia University',
+		'NYU',
+		'Pace University',
+		'George Washington University',
 		);
 	$specialists_photo = array(
 		'david-b',
@@ -91,8 +100,11 @@
 		'evan-o',
 		'meghan-m',
 		'louise-d',
+		'kayleigh-s',
+		'michael-m',
+		'julie-b',
 		);
-	for ($i=0; $i < 21 ; $i++):
+	for ($i=0; $i < 24 ; $i++):
 ?>
 
 	<div class="specialist-avatar matchHeight">
@@ -102,11 +114,6 @@
 		<h6 class="university">Graduate of <?php echo $specialists_school[$i];?></h6>
 	</div>
 
-<?php endfor; ?>
-<?php for ($i=0; $i < 3 ; $i++): ?>
-
-	<div class="specialist-avatar empty-placeholder">
-	</div>
 <?php endfor; ?>
 
 </div>

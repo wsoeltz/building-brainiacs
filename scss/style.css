@@ -18,7 +18,6 @@ input {
 @media screen and (max-width: 767px) {
   ul li {
     -webkit-text-size-adjust: 100%; } }
-
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -100,7 +99,6 @@ input[type="search"]::-webkit-search-results-decoration {
 
 @-ms-viewport {
   width: auto !important; }
-
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
   font-family: "Open Sans", "Myriad Pro", Myriad, Helvetica, Arial, sans-serif;
   color: #0a3345; }
@@ -362,7 +360,6 @@ header {
 .row:before, .row:after {
   content: " ";
   display: table; }
-
 .row:after {
   clear: both; }
 
@@ -389,14 +386,12 @@ header {
 
 .secondary-row .row .column.left, .secondary-row .row .column.right {
   width: 38%; }
-
 .secondary-row .row .column.middle {
   width: 24%;
   text-align: center; }
   .secondary-row .row .column.middle img {
     position: relative;
     top: 14px; }
-
 @media (max-width: 768px) {
   .secondary-row .row .column.left, .secondary-row .row .column.right, .secondary-row .row .column.middle {
     width: 100%; } }
@@ -431,7 +426,6 @@ header {
 
 .contact-row > .row {
   position: relative; }
-
 .contact-row .paul-photo-full {
   position: absolute;
   left: -60px;
@@ -445,7 +439,6 @@ header {
   .contact-row .paul-photo-full img {
     position: relative;
     bottom: -2px; }
-
 .contact-row .form {
   position: relative;
   padding-left: 320px; }
@@ -484,7 +477,6 @@ form#contactform label {
   color: #0a3345;
   font-size: 15px;
   margin-bottom: 5px; }
-
 form#contactform input, form#contactform textarea {
   display: block;
   width: 100%;
@@ -494,12 +486,10 @@ form#contactform input, form#contactform textarea {
   border: solid 1px #e1e1e1;
   font-family: "Open Sans", "Myriad Pro", Myriad, Helvetica, Arial, sans-serif;
   margin-bottom: 10px; }
-
 form#contactform textarea {
   height: 120px;
   margin-bottom: 27px;
   resize: none; }
-
 form#contactform input[type="submit"] {
   font-size: 16px;
   font-weight: 600;
@@ -604,7 +594,6 @@ article.body.services .services-cover-photo {
         article.body.services .services-cover-photo ul li {
           width: 100%;
           float: none; } }
-
 article.body.services .services-content {
   margin-top: -100px; }
   @media (max-width: 500px) {
@@ -633,7 +622,6 @@ article.body.services .services-content {
         article.body.services .services-content .card:first-child {
           margin-right: 0%;
           margin-bottom: 40px; } }
-
 article.body.services .services-rates {
   background-color: #f5f6f6;
   padding: 108px 0 70px 0;
@@ -704,59 +692,61 @@ article.body.specialists .specialists-header {
       .specialists-content .specialist-avatar {
         width: 100%; } }
 
-.specialists-meet-paul .more-information-toggle {
+.specialists-meet-paul {
   background-color: #f5f6f6;
   padding: 30px 0; }
-
-.specialists-meet-paul h3 {
-  text-align: right; }
-
-.specialists-meet-paul .flex-column.left {
-  -webkit-flex-grow: 0;
-  -webkit-flex-shrink: 0;
-  -webkit-flex-basis: 380px;
-  flex-grow: 0;
-  flex-shrink: 0;
-  flex-basis: 380px; }
-
-@media (max-width: 800px) {
   .specialists-meet-paul h3 {
-    text-align: center; }
-  .specialists-meet-paul .flex-row {
-    display: block; }
-    .specialists-meet-paul .flex-row .flex-column.left {
-      -webkit-flex-basis: 100%;
-      flex-basis: 100%;
-      width: 100%;
-      margin: 0px auto 20px;
-      text-align: center; } }
-
-.specialists-meet-paul .paul-tryon-founder {
-  position: relative; }
-  .specialists-meet-paul .paul-tryon-founder .image {
     text-align: right; }
-  .specialists-meet-paul .paul-tryon-founder .text {
-    position: absolute;
-    top: 0;
-    left: 0;
-    padding-left: 16px;
-    transform: translateX(0);
-    padding-bottom: 2rem; }
-  @media (min-width: 680px) {
-    .specialists-meet-paul .paul-tryon-founder .image {
+  .specialists-meet-paul .flex-column.left {
+    -webkit-flex-grow: 0;
+    -webkit-flex-shrink: 0;
+    -webkit-flex-basis: 380px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 380px; }
+  @media (min-width: 461px) and (max-width: 800px) {
+    .specialists-meet-paul {
+      margin-top: 320px; } }
+  @media (max-width: 800px) {
+    .specialists-meet-paul h3 {
       text-align: center; }
+    .specialists-meet-paul .flex-row {
+      display: block; }
+      .specialists-meet-paul .flex-row .flex-column.left {
+        -webkit-flex-basis: 100%;
+        flex-basis: 100%;
+        width: 100%;
+        margin: 0px auto 20px;
+        text-align: center; } }
+  .specialists-meet-paul .paul-tryon-founder {
+    position: relative; }
+    @media (max-width: 460px) {
+      .specialists-meet-paul .paul-tryon-founder {
+        display: none; } }
     .specialists-meet-paul .paul-tryon-founder .text {
-      padding-left: 0px;
-      right: 0;
-      bottom: 0;
-      top: auto;
-      transform: translateX(-250px); } }
-  @media (max-width: 400px) {
-    .specialists-meet-paul .paul-tryon-founder .text {
-      right: 0;
-      padding: 0; }
+      position: absolute;
+      top: -163px;
+      right: 380px; }
+      @media (max-width: 940px) {
+        .specialists-meet-paul .paul-tryon-founder .text {
+          top: -183px;
+          right: 340px; } }
+      @media (max-width: 480px) {
+        .specialists-meet-paul .paul-tryon-founder .text {
+          right: 325px; } }
     .specialists-meet-paul .paul-tryon-founder .image {
-      padding-top: 80px; } }
+      position: absolute;
+      top: -437px;
+      right: 0;
+      position: absolute;
+      text-align: center; }
+      @media (max-width: 940px) {
+        .specialists-meet-paul .paul-tryon-founder .image {
+          width: 354px;
+          top: -385px; } }
+      .specialists-meet-paul .paul-tryon-founder .image img {
+        position: relative;
+        bottom: -2px; }
 
 .flex-row {
   display: -webkit-flex;
@@ -789,8 +779,13 @@ article.body.specialists .specialists-header {
         text-align: center;
         margin-bottom: 40px; } }
   #aboutPaulTryon .content-column {
-    margin-left: auto;
-    max-width: 700px; }
+    padding-left: 420px; }
+    @media (max-width: 880px) {
+      #aboutPaulTryon .content-column {
+        padding-left: 300px; } }
+    @media (max-width: 750px) {
+      #aboutPaulTryon .content-column {
+        padding-left: 0; } }
 
 article.body.testimonials .testimonials-header {
   background-color: #f5f6f6;
@@ -802,7 +797,6 @@ article.body.testimonials .testimonials-header {
   article.body.testimonials .testimonials-header p {
     max-width: 650px;
     margin: 0 auto; }
-
 article.body.testimonials a.testimonialCta {
   margin-bottom: 40px; }
 
@@ -963,3 +957,5 @@ footer.footer {
       text-decoration: none; }
       footer.footer p#copyright a:hover, footer.footer address a:hover {
         border-bottom: solid 1px #ffffff; }
+
+/*# sourceMappingURL=style.css.map */
