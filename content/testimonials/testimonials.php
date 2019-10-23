@@ -236,7 +236,7 @@
 	</div>
 	<div class="testimonialContainer column half">
 		<blockquote>
-			I have been very impressed by the professionalism, initiative and organizational skills that Paul has exhibited.
+			Paul’s initiative, technology expertise, and conceptual flexibility have transformed a dusty shrine into a literature and curriculum center that is accessible to the faculty and students of Steinhardt’s School of Education and the community.
 			<cite>Dr. Katherine Stahl, Ed. D.</cite>
 		</blockquote>
 		<a href="#" class="btn testimonialLink">Read Full Testimonial</a>
