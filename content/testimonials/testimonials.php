@@ -20,6 +20,120 @@
 	</div>
 	<div class="testimonialContainer column half">
 		<blockquote>
+			Paul found the perfect teacher for my special needs daughter. She is so excited for her sessions and I see a huge change in a very short time.
+			<cite>Keren</cite>
+		</blockquote>
+		<a href="#" class="btn testimonialLink">Read Full Testimonial</a>
+		<div class="testimonialModal">
+			<div class="testimonialFull">
+				<p>
+					Paul found the perfect teacher for my special needs daughter. She is so excited for her sessions and I see a huge change in a very short time.
+				</p>
+			</div>
+			<cite>Keren<small>Mom</small></cite>
+			<a href="#" class="btn closeModal">Done</a>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="testimonialContainer column half">
+		<blockquote>
+			Katrina was terrific. She was instrumental in helping [Mark] adjust to the rigors of writing for high school.
+			<cite>Sarah</cite>
+		</blockquote>
+		<a href="#" class="btn testimonialLink">Read Full Testimonial</a>
+		<div class="testimonialModal">
+			<div class="testimonialFull">
+				<p>
+					Katrina was terrific. She was instrumental in helping [Mark] adjust to the rigors of writing for high school. He's doing very well in English this year and benefited greatly from her help. She has a very positive attitude and certainly was able to help him mature, not only with his writing but his study habits as well.
+				</p>
+			</div>
+			<cite>Sarah</cite>
+			<a href="#" class="btn closeModal">Done</a>
+		</div>
+	</div>
+	<div class="testimonialContainer column half">
+		<blockquote>
+			We will be forever grateful to both Paul and Alicia. We know it has changed Owen's view on school work, and he is now eager and loving to learn.
+			<cite>Wendy</cite>
+		</blockquote>
+		<a href="#" class="btn testimonialLink">Read Full Testimonial</a>
+		<div class="testimonialModal">
+			<div class="testimonialFull">
+				<p>
+					We will be forever grateful to both Paul and Alicia. We know it has changed Owen's view on school work, and he is now eager and loving to learn. Thanks to Alicia, Owen is finally having fun while learning.
+				</p>
+			</div>
+			<cite>Wendy</cite>
+			<a href="#" class="btn closeModal">Done</a>
+		</div>
+	</div>
+
+</div>
+
+<div class="row">
+	<div class="testimonialContainer column">
+		<blockquote>
+			While our daughter’s late diagnosis of dyslexia and ADD (at 17 years old) explained why all her studying wasn’t yielding great academic results, it left us scrambling for a way forward. Enter Paul Tryon of Building Brainiacs. His thorough diagnostic literacy evaluation was spot on... we couldn’t be more thankful for and appreciative of the work of Paul, Evan, and Building Brainiacs. Five stars!
+			<cite>Vicky W. and Paul F. </cite>
+		</blockquote>
+		<a href="#" class="btn testimonialLink">Read Full Testimonial</a>
+		<div class="testimonialModal">
+			<div class="testimonialFull">
+				<p>
+					While our daughter’s late diagnosis of dyslexia and ADD (at 17 years old) explained why all her studying wasn’t yielding great academic results, it left us scrambling for a way forward. Enter Paul Tryon of Building Brainiacs. His thorough diagnostic literacy evaluation was spot on. Knowing what our daughter needed enabled Paul to connect us with Evan Ortlieb. Evan “gets her,” and precisely tailors his tutoring so our daughter can maximize her study time. The results speak for themselves: not only did she raise her average to the mid 90s, in her senior year she made the honor roll for the first time. Even better, she was accepted into her first-choice college (her “reach” school). We couldn’t be more proud of our daughter for absorbing a new way of learning then making the most of the opportunity, and we couldn’t be more thankful for and appreciative of the work of Paul, Evan, and Building Brainiacs. Five stars!
+				</p>
+			</div>
+			<cite>Vicky W. and Paul F.</cite>
+			<a href="#" class="btn closeModal">Done</a>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="testimonialContainer column half">
+		<blockquote>
+			I can say without hesitation that its been a great experience for us as parents and for the kids as well.
+			<cite>Andy B.</cite>
+		</blockquote>
+		<a href="#" class="btn testimonialLink">Read Full Testimonial</a>
+		<div class="testimonialModal">
+			<div class="testimonialFull">
+				<p>
+					Paul was referred to us by a literacy professor at NYU where Paul completed his Master's degree. Thanks to his experience as a third grade teacher, his first interaction with our kids was great and they were immediately comfortable working with him during his initial evaluation of their strengths and weaknesses.
+				</p>
+
+				<p>
+					He offered us a very competitive rate in exchange for multiple hours, so for the past three months he’s been picking our 8 year old twins up at school two afternoons a week, bringing them home for a snack and then spending an hour with each of them working to strengthen their literacy skills.  As an added bonus he also happens to be a gifted musician and spends a little time teaching both of the kids piano as well.
+				</p>
+
+				<p>
+					Paul is quick to respond to email, phone and text messages. He consistently shows up on time at school, safely escorts the kids on their 15 minute commute home, and uses just the right balance of fun and work to keep them engaged and interested.
+				</p>
+
+				<p>
+					He keeps us updated on their progress with detailed emails and has made himself available for calls with the kids’ teachers to share his insights and to coordinate his tutoring with what’s being taught at school.
+				</p>
+
+				<p>
+					We’ve started to notice both of our children having an easier time with the complex vowel sounds they struggled with just weeks before. We’ve also seen a renewed confidence in our dyslexic daughter’s reading, and less spelling and grammar mistakes in our son’s writing.
+				</p>
+
+				<p>
+					Before Paul, we had worked with a tutor through an agency. Scheduling was sporadic and prices were high, so we were a little leery the second time around.  We’ve been pleasantly surprised. I can say without hesitation that its been a great experience for us as parents and for the kids as well.
+				</p>
+
+				<p>
+					Paul is not only personable and easy to work with, but well qualified and great with our kids.
+				</p>
+			</div>
+			<cite>Andy B.<small>Dad of 3<sup>rd</sup> Graders</small></cite>
+			<a href="#" class="btn closeModal">Done</a>
+		</div>
+	</div>
+	<div class="testimonialContainer column half">
+		<blockquote>
 			Allison is an amazing, creative and thoughtful educator... Paul did a great job assessing our needs and finding the right fit for our family.
 			<cite>Lisa</cite>
 		</blockquote>
@@ -69,64 +183,7 @@
 		</div>
 	</div>
 </div>
-<div class="row">
-	<div class="testimonialContainer column half">
-		<blockquote>
-			Paul found the perfect teacher for my special needs daughter. She is so excited for her sessions and I see a huge change in a very short time.
-			<cite>Keren</cite>
-		</blockquote>
-		<a href="#" class="btn testimonialLink">Read Full Testimonial</a>
-		<div class="testimonialModal">
-			<div class="testimonialFull">
-				<p>
-					Paul found the perfect teacher for my special needs daughter. She is so excited for her sessions and I see a huge change in a very short time.
-				</p>
-			</div>
-			<cite>Keren<small>Mom</small></cite>
-			<a href="#" class="btn closeModal">Done</a>
-		</div>
-	</div>
-	<div class="testimonialContainer column half">
-		<blockquote>
-			I can say without hesitation that its been a great experience for us as parents and for the kids as well.
-			<cite>Andy B.</cite>
-		</blockquote>
-		<a href="#" class="btn testimonialLink">Read Full Testimonial</a>
-		<div class="testimonialModal">
-			<div class="testimonialFull">
-				<p>
-					Paul was referred to us by a literacy professor at NYU where Paul completed his Master's degree. Thanks to his experience as a third grade teacher, his first interaction with our kids was great and they were immediately comfortable working with him during his initial evaluation of their strengths and weaknesses.
-				</p>
 
-				<p>
-					He offered us a very competitive rate in exchange for multiple hours, so for the past three months he’s been picking our 8 year old twins up at school two afternoons a week, bringing them home for a snack and then spending an hour with each of them working to strengthen their literacy skills.  As an added bonus he also happens to be a gifted musician and spends a little time teaching both of the kids piano as well.
-				</p>
-
-				<p>
-					Paul is quick to respond to email, phone and text messages. He consistently shows up on time at school, safely escorts the kids on their 15 minute commute home, and uses just the right balance of fun and work to keep them engaged and interested.
-				</p>
-
-				<p>
-					He keeps us updated on their progress with detailed emails and has made himself available for calls with the kids’ teachers to share his insights and to coordinate his tutoring with what’s being taught at school.
-				</p>
-
-				<p>
-					We’ve started to notice both of our children having an easier time with the complex vowel sounds they struggled with just weeks before. We’ve also seen a renewed confidence in our dyslexic daughter’s reading, and less spelling and grammar mistakes in our son’s writing.
-				</p>
-
-				<p>
-					Before Paul, we had worked with a tutor through an agency. Scheduling was sporadic and prices were high, so we were a little leery the second time around.  We’ve been pleasantly surprised. I can say without hesitation that its been a great experience for us as parents and for the kids as well.
-				</p>
-
-				<p>
-					Paul is not only personable and easy to work with, but well qualified and great with our kids.
-				</p>
-			</div>
-			<cite>Andy B.<small>Dad of 3<sup>rd</sup> Graders</small></cite>
-			<a href="#" class="btn closeModal">Done</a>
-		</div>
-	</div>
-</div>
 <div class="row">
 	<div class="testimonialContainer column half">
 		<blockquote>
@@ -146,30 +203,6 @@
 	</div>
 	<div class="testimonialContainer column half">
 		<blockquote>
-			I am honored to know Paul Tryon, and I know he would be a valuable asset to any educational institution.
-			<cite>Mary Jane Fyffe</cite>
-		</blockquote>
-		<a href="#" class="btn testimonialLink">Read Full Testimonial</a>
-		<div class="testimonialModal">
-			<div class="testimonialFull">
-			<p>
-				I met Paul while working with him last summer teaching Summer Academy.   I worked with him for 3 weeks, and in that short time, I was extremely impressed with how he motivated kids to learn math through music.  Most of the 4th graders who attended this program did not want to be in school over the summer, but by the end of the first day, these kids looked forward to coming back.  Many of the parents commented on how their children were coming home singing the math songs Mr. Tryon taught them.   Another child, who had emotional issues during the school year, and disliked school in general, couldn't wait to come back each and every day.  His mother approached the Dean of Students and wanted to know the “magic” we were using in the classroom.  I attribute this “magic” to Paul Tryon.  Paul used his musical talent to create fun and engaging lessons which enabled the students to retain math concepts that were difficult for them during the regular school year.
-			</p>
-			<p>
-				After Summer Academy ended, and the new school year started, I invited Paul into my classroom during his winter break.  Again, he inspired my second graders using his musical talent.  He had them singing a song he wrote on addition facts.  Now, my students have automatic recall on their facts due to Paul's song.  He created a math CD which I play on a daily basis during snack.  The kids often request this CD to be played when they have free time.
-			</p>
-			<p>
-				I am hoping Paul will be teaching Summer Academy again this year, and if he does, I am requesting to work with him again.  I am honored to know Paul Tryon, and I know he would be a valuable asset to any educational institution.
-			</p>
-			</div>
-			<cite>Mary Jane Fyffe<small>Teacher</small></cite>
-			<a href="#" class="btn closeModal">Done</a>
-		</div>
-	</div>
-</div>
-<div class="row">
-	<div class="testimonialContainer column half">
-		<blockquote>
 			I am so impressed with the way you handle Dan.  You can turn his mood around in minutes -- something a string of babysitters couldn't figure out how to do!
 			<cite>Mother of 7 year old student</cite>
 		</blockquote>
@@ -179,6 +212,25 @@
 				<p>I am so impressed with the way you handle Dan.  You can turn his mood around in minutes -- something a string of babysitters couldn't figure out how to do!</p>
 			</div>
 			<cite>Mother of 7 year old student</cite>
+			<a href="#" class="btn closeModal">Done</a>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="testimonialContainer column half">
+		<blockquote>
+			I think he is one of the best teachers I've ever had.
+			<cite>Nitya, student</cite>
+		</blockquote>
+		<a href="#" class="btn testimonialLink">Read Full Testimonial</a>
+		<div class="testimonialModal">
+			<div class="testimonialFull">
+				<p>
+					Paul is an amazing piano teacher. He helped me and my sister so much. He is really funny and nice too. Now, because of him, my favorite thing to do is piano. I think he is one of the best teachers I've ever had.
+				</p>
+			</div>
+			<cite>Nitya<small>Student</small></cite>
 			<a href="#" class="btn closeModal">Done</a>
 		</div>
 	</div>
@@ -211,43 +263,26 @@
 <div class="row">
 	<div class="testimonialContainer column half">
 		<blockquote>
-			Paul is a great teacher, is kind, is funny, is helpful...
-			<cite>Nymisha, student</cite>
+			I am honored to know Paul Tryon, and I know he would be a valuable asset to any educational institution.
+			<cite>Mary Jane Fyffe</cite>
 		</blockquote>
 		<a href="#" class="btn testimonialLink">Read Full Testimonial</a>
 		<div class="testimonialModal">
 			<div class="testimonialFull">
-				<p>
-					Paul...
-					<br>is a great teacher
-					<br>is kind
-					<br>is funny
-					<br>is helpful
-					<br>makes piano easy and fun.
-				</p>
+			<p>
+				I met Paul while working with him last summer teaching Summer Academy.   I worked with him for 3 weeks, and in that short time, I was extremely impressed with how he motivated kids to learn math through music.  Most of the 4th graders who attended this program did not want to be in school over the summer, but by the end of the first day, these kids looked forward to coming back.  Many of the parents commented on how their children were coming home singing the math songs Mr. Tryon taught them.   Another child, who had emotional issues during the school year, and disliked school in general, couldn't wait to come back each and every day.  His mother approached the Dean of Students and wanted to know the “magic” we were using in the classroom.  I attribute this “magic” to Paul Tryon.  Paul used his musical talent to create fun and engaging lessons which enabled the students to retain math concepts that were difficult for them during the regular school year.
+			</p>
+			<p>
+				After Summer Academy ended, and the new school year started, I invited Paul into my classroom during his winter break.  Again, he inspired my second graders using his musical talent.  He had them singing a song he wrote on addition facts.  Now, my students have automatic recall on their facts due to Paul's song.  He created a math CD which I play on a daily basis during snack.  The kids often request this CD to be played when they have free time.
+			</p>
+			<p>
+				I am hoping Paul will be teaching Summer Academy again this year, and if he does, I am requesting to work with him again.  I am honored to know Paul Tryon, and I know he would be a valuable asset to any educational institution.
+			</p>
 			</div>
-			<cite>Nymisha<small>Student</small></cite>
+			<cite>Mary Jane Fyffe<small>Teacher</small></cite>
 			<a href="#" class="btn closeModal">Done</a>
 		</div>
 	</div>
-	<div class="testimonialContainer column half">
-		<blockquote>
-			I think he is one of the best teachers I've ever had.
-			<cite>Nitya, student</cite>
-		</blockquote>
-		<a href="#" class="btn testimonialLink">Read Full Testimonial</a>
-		<div class="testimonialModal">
-			<div class="testimonialFull">
-				<p>
-					Paul is an amazing piano teacher. He helped me and my sister so much. He is really funny and nice too. Now, because of him, my favorite thing to do is piano. I think he is one of the best teachers I've ever had.
-				</p>
-			</div>
-			<cite>Nitya<small>Student</small></cite>
-			<a href="#" class="btn closeModal">Done</a>
-		</div>
-	</div>
-</div>
-<div class="row">
 	<div class="testimonialContainer column half">
 		<blockquote>
 			He is recommended completely and without reservation.
@@ -274,6 +309,7 @@
 		</div>
 	</div>
 </div>
+
 <div class="row">
 	<a href="/contact.php" class="btn testimonialCta">Schedule a Free Consultation</a>
 </div>
