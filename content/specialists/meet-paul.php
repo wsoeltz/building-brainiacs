@@ -13,9 +13,13 @@
 	<div id="aboutPaulTryon" >
 		<div class="row">
 			<div class="content-column right">
-				<p>Paul Tryon is the founder of Building Brainiacs and leads this NYC-based team of specialists. As a New York State Certified Teacher and Certified Literacy Specialist, Paul actively teaches and consults throughout the NYC area.</p>
-				<p>Paul has his finger on the pulse of cutting edge best practices in literacy, as he is the literacy specialist at Classical Charter School, a high performing K-8 school in the South Bronx. Here he develops the literacy curriculum, works with struggling students to close deficits, and supports teachers across the network.</p>
-				<p>Prior to founding Building Brainiacs, Paul tutored extensively throughout NYC and was a classroom teacher in Brooklyn and upstate New York. He earned his Masters degree from NYU where he founded the Georgiou Children's Library and tutored at the NYU Literacy Clinic. In addition to teaching, Paul enjoys writing music and leading an active, outdoor lifestyle.</p>
+				<p>Paul Tryon is the founder of Building Brainiacs and leads this NYC-based team of specialists.  As a New York State Certified Teacher and Certified Literacy Specialist, Paul has spent the last decade working as a reading interventionist and consulting in schools across NYC, Westchester and Long Island.</p>
+
+				<p>In addition to his work with Building Brainiacs, Paul is a School Director at Classical Charter Schools, a high performing network of schools in the South Bronx.  A recipient of the National Blue Ribbon Award, Classical's students consistently and drastically out-perform their peers in New York City and State. Paul joined Classical in 2014 as a literacy specialist, working with the school's most struggling readers to systematically close deficits. He built key components of the literacy curriculum, coached teachers of varying tenure, and led the network's team of literacy specialists. Paul was also the Director of the network's Summer Learning Academy.</p>
+
+				<p>Paul has worked as an adjunct professor at NYU where he designed and taught a class on Foundations of Literacy Development.  Prior to founding Building Brainiacs in 2011, Paul taught 3rd grade in Brooklyn and tutored extensively throughout New York City.</p>
+
+				<p>Paul earned his masters degree in Literacy Education from NYU and his bachelor's degree in Childhood Education from SUNY Potsdam, minoring in mathematics.</p>
 			</div>
 		</div>
 	</div>
