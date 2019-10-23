@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "php -S 127.0.0.1:4040",
     "scss": "node-sass --watch scss -o css"
   },
   "repository": {
