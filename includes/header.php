@@ -5,5 +5,6 @@
 		<li class="<?php setCurrentPage("specialists", "active")?>"><a href="specialists.php">Specialists</a></li>
 		<li class="<?php setCurrentPage("testimonials", "active")?>"><a href="testimonials.php">Testimonials</a></li>
 		<li class="<?php setCurrentPage("contact", "active")?>"><a href="contact.php">Contact Us</a></li>
+    <li><a href="pay">Pay</a></li>
 	</ul>
 </nav>
