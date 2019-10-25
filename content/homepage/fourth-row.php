@@ -4,8 +4,8 @@
 		<cite>Kiva D.</cite>
 	</blockquote>
 	<blockquote class="column half">
-		The tutors at Building Brainiacs are top notch, and I trust them whole-heartedly with my son's well-being.  The progress we've seen is remarkable.
-		<cite>Susan M.</cite>
+		We will be forever grateful to both Paul and Alicia. We know it has changed Owen's view on school work, and he is now eager and loving to learn.
+		<cite>Wendy</cite>
 	</blockquote>
 </div>
 <div class="row">
