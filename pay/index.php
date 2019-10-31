@@ -45,7 +45,7 @@
 <body>
   <div id="loading">
     <div class="content">
-      <img src="css/images/logo-color.svg" />
+      <img src="../css/images/logo-color.svg" />
       <h2>One moment while we redirect you to the payment portal...</h2>
     </div>
   </div>
