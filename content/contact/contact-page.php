@@ -7,5 +7,5 @@
     <div class="paul-photo-small"><img src="images/homepage/paul-tryon-profile.png" alt="Photo of Paul Tryon" title="Paul Tryon, Literary Tutoring Specialist"></div>
   </div>
 	<?php include 'includes/contact-form.php'; ?>
-	<h3 class="locations"><em>Serving <strong>New&nbsp;York&nbsp;City</strong>, <strong>Westchester</strong>, and <strong>Long&nbsp;Island</strong></em></h3>
+	<h3 class="locations"><em>Serving <strong>Boston</strong>, <strong>New&nbsp;York&nbsp;City</strong>, <strong>Westchester</strong>, and <strong>Long&nbsp;Island</strong></em></h3>
 </div>

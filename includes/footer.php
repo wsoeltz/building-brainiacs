@@ -7,7 +7,7 @@
 <h6 class="footer-logo"><a href="/">Building Brainiacs</a></h6>
 <p id="copyright">Copyright © <?php echo date("Y") ?> Building Brainiacs LLC. All rights reserved.</p>
 <address>
-	Serving New York City, Westchester, and Long Island
+	Serving Boston, New York City, Westchester, and Long Island
 	<br><a href="tel:(917) 819-2468">(917) 819-2468</a>
 	<br><a href="mailto:buildingbrainiacs@gmail.com">buildingbrainiacs@gmail.com</a>
 </address>
